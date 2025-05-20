@@ -1,0 +1,9 @@
+1.Forecast
+
+2.Correlation Analysis
+
+3.Descriptive Stats
+
+4.Scatter
+
+5.Regression
